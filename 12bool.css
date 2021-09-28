@@ -131,6 +131,11 @@
     display: flex;
 }
 
+.flex_clmn{
+    display: flex;
+    flex-direction: column;
+}
+
 .txt_center{
     justify-content: center;
     align-items: center;
