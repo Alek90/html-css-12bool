@@ -139,4 +139,5 @@
 .txt_center{
     justify-content: center;
     align-items: center;
+    text-align: center;
 }

@@ -19,5 +19,5 @@
 .row_nested > div{
     border: 1px solid white;
     background-color: rgb(240, 127, 128);
-    padding: 3px;
+    padding: 20px;  /* inserito esclusivamente per rispecchiare lo screen */
 }
