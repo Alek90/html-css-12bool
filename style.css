@@ -1,0 +1,7 @@
+.container{
+    background-color: rgb(255, 192, 203);
+}
+
+.row > div{
+    border: 1px solid black;
+}
