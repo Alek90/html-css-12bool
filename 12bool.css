@@ -130,3 +130,8 @@
 .flex{
     display: flex;
 }
+
+.txt_center{
+    justify-content: center;
+    align-items: center;
+}
